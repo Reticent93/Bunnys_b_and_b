@@ -1,0 +1,1 @@
+module "github.com/Reticent93/awesome-go-example-api/templates"
